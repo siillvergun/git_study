@@ -1,14 +1,1 @@
-# git_study
-
-## 컴공, 충돌 나는거 확인해보자
-
-### git 너무 어렵당
-
-git feature/web
-피쳐 브랜치에서 한 번 더!!
-
-흠 뭐지 왜 분기가 안됬지..
-
-분기됨! 깃 훅 사용해보기
-
 ## Incheon National Univ
